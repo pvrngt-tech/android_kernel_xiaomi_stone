@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: GPL-2.0
 VERSION = 5
 PATCHLEVEL = 4
-SUBLEVEL = 302
-EXTRAVERSION =
-NAME = Kleptomaniac Octopus
+SUBLEVEL = 289
+EXTRAVERSION = -ggki-g4e27a72000be
+NAME = moonstone
 
 # indicate that change "Kbuild: Support nested composite objects" is
 # present in the kernel so that out-of-tree modules can act upon it
